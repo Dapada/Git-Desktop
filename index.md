@@ -1,4 +1,4 @@
-<!Doctype html>
+<!Doctype md>
 	<html>
 	<head>
 	<title>Hello<title>
